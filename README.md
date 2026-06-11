@@ -1,9 +1,8 @@
-## 🌐 Live Demo
-
-https://your-streamlit-link.streamlit.app
-
 # 📊 Adidas Sales Intelligence Dashboard
 
+## 🌐 Live Demo
+
+🔗 https://adidas-sales-intelligence-dashboard-kypsg4uugix8armobleaer.streamlit.app/
 ## Overview
 
 The Adidas Sales Intelligence Dashboard is an interactive business analytics application developed using Python, Streamlit, Pandas, and Plotly.
