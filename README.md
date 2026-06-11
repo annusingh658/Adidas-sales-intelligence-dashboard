@@ -1,3 +1,7 @@
+## 🌐 Live Demo
+
+https://your-streamlit-link.streamlit.app
+
 # 📊 Adidas Sales Intelligence Dashboard
 
 ## Overview
